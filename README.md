@@ -16,7 +16,7 @@ Here you will find all the trending posts of your pod.
 
 #### Drawer Page
 
-![Error](https://github.com/Abhishekkr3003/heyhelp/blob/main/Screenshots/hp2.jpg "Drawer Page")
+![Error](https://github.com/Abhishekkr3003/heyhelp/blob/main/Screenshots/hp2.jpg "Drawer Page" )
 This is a drawer, with which you can navigate across all the screens.
 
 #### Add Post
