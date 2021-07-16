@@ -6,34 +6,35 @@ This app let you ask help from other people of your community or across communit
 
 #### Sign In Page
 
-![Error](https://github.com/Abhishekkr3003/heyhelp/blob/main/Screenshots/signIn.jpg "Sign In Page")
+<img src="https://github.com/Abhishekkr3003/heyhelp/blob/main/Screenshots/signIn.jpg" width="200" height="400">
 Here you can sign in using your Google, Facebook, Twitter and Apple.
 
 #### Home Page
 
-![Error](https://github.com/Abhishekkr3003/heyhelp/blob/main/Screenshots/hp1.jpg "Home Page")
+<img src="https://github.com/Abhishekkr3003/heyhelp/blob/main/Screenshots/hp1.jpg" width="200" height="400">
 Here you will find all the trending posts of your pod.
 
 #### Drawer Page
 
-![Error](https://github.com/Abhishekkr3003/heyhelp/blob/main/Screenshots/hp2.jpg "Drawer Page")
+
+<img src="https://github.com/Abhishekkr3003/heyhelp/blob/main/Screenshots/hp2.jpg" width="200" height="400">
 This is a drawer, with which you can navigate across all the screens.
 
 #### Add Post
 
-![Error](https://github.com/Abhishekkr3003/heyhelp/blob/main/Screenshots/addPost.jpg "Add Post Page")
+<img src="https://github.com/Abhishekkr3003/heyhelp/blob/main/Screenshots/addPost.jpg" width="200" height="400">
 In this screen you can answer people's query as well as post anything you want. Editor is markdown enabled to see the preview toggle the switch in top-right corner. You can also attach PDF's.
 
 #### View Post
 
-![Error](https://github.com/Abhishekkr3003/heyhelp/blob/main/Screenshots/addPost.jpg "Add Post Page")
-![Error](https://github.com/Abhishekkr3003/heyhelp/blob/main/Screenshots/addPost.jpg "Add Post Page")
-![Error](https://github.com/Abhishekkr3003/heyhelp/blob/main/Screenshots/addPost.jpg "Add Post Page")
+<img src="https://github.com/Abhishekkr3003/heyhelp/blob/main/Screenshots/viewPost1.jpg" width="200" height="400">
+<img src="https://github.com/Abhishekkr3003/heyhelp/blob/main/Screenshots/viewPost2.jpg" width="200" height="400">
+<img src="https://github.com/Abhishekkr3003/heyhelp/blob/main/Screenshots/viewPost3.jpg" width="200" height="400">
 Here you can view the post, and get answer of your query.
 
 ## Built with
 
-* Made with :heart: in [Flutter](https://flutter.dev/)
+* [Flutter](https://flutter.dev/)
 * [Dart](https://dart.dev/) - The programming language used
 * [Firebase](https://firebase.google.com/) - Used as BaaS
 
