@@ -58,7 +58,7 @@ class _ViewPostState extends State<ViewPost> {
       await FirebaseFirestore.instance
           .collection('pods')
           .doc(widget.pod)
-          .collection('posts')
+          .collection('posts')  
           .doc(widget.docRef)
           .collection('comments')
           .add({'msg': msg, 'author': FirebaseAuth.instance.currentUser!.uid});

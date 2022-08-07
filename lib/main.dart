@@ -20,7 +20,7 @@ import 'utils/themes.dart';
 import 'Core/Store.dart';
 
 void main(List<String> args) {
-  WidgetsFlutterBinding.ensureInitialized();
+  // WidgetsFlutterBinding.ensureInitialized();
   //await Firebase.initializeApp();
   runApp(VxState(store: MyStore(), child: MyApp()));
 }
@@ -86,7 +86,7 @@ class _MyAppState extends State<MyApp> {
               });
             }
             return SplashScreen();
-      }),
+          }),
       //initialRoute: MyRoutes.splashSceen, // By default ye hi hota hai
       routes: {
         MyRoutes.loginPage: (context) => LoginPage(),
